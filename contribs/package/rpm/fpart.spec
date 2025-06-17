@@ -1,6 +1,6 @@
 Name:    fpart
-Version: 1.2.0
-Release: 2%{?dist}
+Version: 1.7.0
+Release: 1%{?dist}
 License: BSD
 Summary: a tool that sorts files and packs them into bags
 URL:     http://contribs.martymac.org
